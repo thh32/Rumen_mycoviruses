@@ -1,2 +1,2 @@
-# Rumen_mycoviruses
+# Rumen mycoviruses
 Analysis of the rumen mycoviral population
